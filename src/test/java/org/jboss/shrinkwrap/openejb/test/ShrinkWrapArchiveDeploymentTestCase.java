@@ -50,7 +50,7 @@ import org.junit.Test;
  * @author <a href="mailto:andrew.rubinger@jboss.org">ALR</a>
  * @version $Revision: $
  */
-public class ShrinkWrapArchiveDeploymentTest
+public class ShrinkWrapArchiveDeploymentTestCase
 {
    //-------------------------------------------------------------------------------------||
    // Class Members ----------------------------------------------------------------------||
@@ -59,7 +59,7 @@ public class ShrinkWrapArchiveDeploymentTest
    /**
     * Logger
     */
-   private static final Logger log = Logger.getLogger(ShrinkWrapArchiveDeploymentTest.class.getName());
+   private static final Logger log = Logger.getLogger(ShrinkWrapArchiveDeploymentTestCase.class.getName());
 
    /**
     * OpenEJB server view
