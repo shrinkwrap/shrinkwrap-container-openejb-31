@@ -17,7 +17,7 @@
   <!-- Artifact Configuration -->
   <groupId>org.jboss.shrinkwrap.container</groupId>
   <artifactId>shrinkwrap-container-openejb-31</artifactId>
-  <version>1.0.0-beta-1-SNAPSHOT</version>
+  <version>1.0.0-beta-1</version>
   <name>ShrinkWrap OpenEJB 3.1.x Integration Extension</name>
   <description>ShrinkWrap Integration Extension for the OpenEJB 3.1.x Project</description>
 
