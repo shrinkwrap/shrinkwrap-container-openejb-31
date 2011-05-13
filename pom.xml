@@ -33,9 +33,9 @@
   
   <!-- SCM -->
   <scm>
-    <connection>scm:git:git://github.com/shrinkwrap/shrinkwrap-container-openejb31.git</connection>
-    <developerConnection>scm:git:git@github.com:shrinkwrap/shrinkwrap-container-openejb31.git</developerConnection>
-    <url>https://github.com/shrinkwrap/shrinkwrap-container-openejb31</url>
+    <connection>scm:git:git://github.com/shrinkwrap/shrinkwrap-container-openejb-31.git</connection>
+    <developerConnection>scm:git:git@github.com:shrinkwrap/shrinkwrap-container-openejb-31.git</developerConnection>
+    <url>https://github.com/shrinkwrap/shrinkwrap-container-openejb-31</url>
   </scm>
 
   <!-- Issues -->
