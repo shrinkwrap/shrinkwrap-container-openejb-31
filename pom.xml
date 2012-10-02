@@ -8,7 +8,7 @@
   <parent>
     <groupId>org.jboss</groupId>
     <artifactId>jboss-parent</artifactId>
-    <version>5</version>
+    <version>8</version>
   </parent>
 
   <!-- Model Version -->
@@ -25,8 +25,8 @@
   <properties>
   
     <!-- Versioning -->
-    <version.org.jboss.shrinkwrap>1.0.0-beta-1</version.org.jboss.shrinkwrap>
-    <version.org.apache.openejb_openejb.core>3.1.2</version.org.apache.openejb_openejb.core>
+    <version.org.jboss.shrinkwrap>1.0.1</version.org.jboss.shrinkwrap>
+    <version.org.apache.openejb_openejb.core>3.1.4</version.org.apache.openejb_openejb.core>
     <version.junit_junit>4.8</version.junit_junit>
 
   </properties>
